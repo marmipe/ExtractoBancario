@@ -1,0 +1,6 @@
+# Solo código: todo lo demás (extractos, logs, tramas, logon DTW) queda fuera.
+*
+!.gitignore
+!README.md
+!*.py
+!*.BAT
